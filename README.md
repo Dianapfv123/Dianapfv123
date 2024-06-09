@@ -2,6 +2,17 @@
 🌱 Holaaa, soy Diana Paola 🌱
 </h1>
 
+<hr>
+<pre>
+💻 Soy principiante en la programacion, pero dispuesta a mejorar :)
+📚 Mis hobbies favoritos son escuchar musica y leer mangas(solo los de one punch man)
+📝 Soy una estudiante de bachillerato
+🎧 Me gusta mucho aprender a tocar instrumentos musicales
+🌟 mi lenguaje favorito de programacion: c++ (fue al unico al que le entendi JAJA)
+🚩 Mi meta es poder trabajar como programadora
+</pre>
+<hr>
+
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -11,7 +22,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,css,discord,github,html,java,js,mysql,vscode,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=cpp,css,github,html,java,js,mysql,vscode&perline=14" />
   </a>
 </p>
 <!--icons and links-->
