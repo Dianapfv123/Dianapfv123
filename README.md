@@ -5,12 +5,11 @@
 ### 👨🏻‍💻 &nbsp;ACERCA DE MI
 <hr>
 <pre>
-💻 Soy principiante en la programacion, pero dispuesta a mejorar :)
+💻 Soy principiante en la programacion, pero estoy dispuesta a mejorar :)
 📚 Mis hobbies favoritos son escuchar musica y leer mangas(solo los de one punch man)
-📝 Soy una estudiante de bachillerato
+📝 Actualmente curso el 4 semestre de bachillerato
 🎧 Me gusta mucho tocar instrumentos musicales
 🌟 mi lenguaje favorito de programacion: c++ (fue al unico al que le entendi JAJA)
-🚩 Mi meta es poder trabajar como programadora
 </pre>
 <hr>
 
